@@ -22,3 +22,5 @@ Bu proje, temel **HTML**, **CSS** ve **JavaScript** bilgileri kullanılarak olu�
 2. Projeyi bir tarayıcıda açmak için `index.html` dosyasını çift tıklayın.
 3. İnternet bağlantınız olduğundan emin olun; şakalar API üzerinden çekilmektedir.
 4. **“Başka Bir Şaka”** ve **“Türkçe Çeviri”** butonlarını kullanarak web sitesini keşfedin.
+
+![Chuck Norris](https://github.com/user-attachments/assets/aeea96a2-4445-447a-ac36-5de1bda546ff)
