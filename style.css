@@ -1,0 +1,54 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(57, 57, 57);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    color:#fff;
+    text-shadow: 0 1px 8px #000000;
+}
+.card {
+    background-color: rgb(88, 85, 84);
+    padding: 40px;
+    box-shadow: 0 4px 12px #000000 ;
+    max-width: 1000px;
+    border-radius: 15px;
+}
+
+#joke {
+    max-width: 900px;
+    margin: 20px auto;
+    font-size: 2rem;
+}
+
+.button-group {
+    display: flex;
+    gap: 20px; /* Butonlar arası boşluk */
+    margin-top: 25px;
+    justify-content: center;
+}
+
+
+button {
+    background-color:rgb(155, 34, 231);
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition:background-color 0.2s;
+    color: #fff;
+}
+
+button:hover {
+    background-color: #000000;
+}
